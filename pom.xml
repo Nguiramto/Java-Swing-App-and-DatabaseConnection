@@ -13,7 +13,6 @@
         <module>OrderControllerManagement</module>
         <module>OrderItemManagement</module>
         <module>OrderPanelManagement</module>
-        <module>OrderTransaction</module>
         <module>OrderTransactionManagement</module>
         <module>RevenuePanelManagement</module>
         <module>TransactionPanelManagement</module>
@@ -27,5 +26,16 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>9.2.0</version>
+        </dependency>
+    </dependencies>
+
+
+
 
 </project>

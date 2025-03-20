@@ -51,9 +51,9 @@ public class Main extends JFrame {
         try {
             // Initialize MysqlDataSource
             MysqlDataSource dataSource = new MysqlDataSource();
-            dataSource.setURL("jdbc:mysql://localhost:3306/restaurantmanagement");  // Change database name, host, port if necessary
-            dataSource.setUser("root");  // Set your database username
-            dataSource.setPassword("#FOcus2710##");  // Set your database password
+            dataSource.setURL("jdbc:mysql://localhost:3306/restaurantmanagement");
+            dataSource.setUser("root");
+            dataSource.setPassword("#FOcus2710#");
 
             // Try to get the connection
             conn = dataSource.getConnection();
