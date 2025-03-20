@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ESTABLISHING-DATABASE-CONNECTIVITY:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ESTABLISHING_DATABASE_CONNECTIVITY_jar</output-path>
+    <root id="archive" name="ESTABLISHING-DATABASE-CONNECTIVITY.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../../GitHub/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MenuPanelManagement" />
+      <element id="module-output" name="OrderControllerManagement" />
+      <element id="module-output" name="OrderTransactionManagement" />
+      <element id="module-output" name="ActivityLoggerManagement" />
+      <element id="module-output" name="OrderItemManagement" />
+      <element id="module-output" name="OrderPanelManagement" />
+      <element id="module-output" name="RevenuePanelManagement" />
+      <element id="module-output" name="TransactionPanelManagement" />
+      <element id="module-output" name="ActivityPanelManagement" />
+      <element id="module-output" name="MainFrameManagement" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../GitHub/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-j-9.2.0" />
+    </root>
+  </artifact>
+</component>

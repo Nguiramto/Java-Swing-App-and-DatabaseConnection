@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ActivityLoggerManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ActivityLoggerManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ActivityPanelManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ActivityPanelManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MainFrameManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MainFrameManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MenuPanelManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MenuPanelManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderControllerManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderControllerManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderItemManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderItemManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderPanelManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderPanelManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderTransaction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderTransaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderTransactionManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OrderTransactionManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RevenuePanelManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RevenuePanelManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TransactionPanelManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TransactionPanelManagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
