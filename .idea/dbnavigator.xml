@@ -32,10 +32,11 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/order_items" />
-      <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/orders" />
       <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/transactions" />
       <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/menu_items" />
+      <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/users" />
+      <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/order_items" />
+      <object connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" object-ref="schemas/restaurantmanagement/tables/activity_log" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
@@ -45,6 +46,7 @@
     <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.menu_items" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.orders" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.order_items" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.users" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.activity_log" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="682e6b5d-1fcb-44b7-9e3f-7a44268dba84" dataset="restaurantmanagement.transactions" active-filter-id="EMPTY_FILTER" />
   </component>
